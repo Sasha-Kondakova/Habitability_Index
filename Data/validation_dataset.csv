@@ -1,9 +1,0 @@
-planet,planet_mass_mjup,planet_radius_rjup,planet_temperature_K,star_name,star_distance_AU,star_mass_msun,star_radius_rsun,star_age_Gy,star_teff_K
-Mars,3.38E-04,0.047,210,Sun,1.5201173,1,1,4.6,5778
-Jupiter,1,1,165,Sun,5.197878,1,1,4.6,5778
-Saturn,0.299,0.843,134,Sun,9.570696,1,1,4.6,5778
-Uranus,0.046,0.355,76,Sun,1.72E+01,1,1,4.6,5778
-Neptune,0.054,0.344,72,Sun,3.01E+01,1,1,4.6,5778
-Earth,0.00314558,0.08928571,288,Sun,1.00E+00,1,1,4.6,5778
-Mars_prehistoric,3.38E-04,0.047,290,Sun,1.5201173,1,1,1,5600
-Earth_prehistoric,0.00314558,0.08928571,333.15,Sun,1.00E+00,1,1,1,5600
